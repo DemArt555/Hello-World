@@ -1,1 +1,1 @@
-go 1.20
+module github.com/DemArt555/Hello-World
