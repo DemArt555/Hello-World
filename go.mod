@@ -1,1 +1,1 @@
-module=github.com/DemArt555/Hello-World
+module=https://github.com/DemArt555/Hello-World/
